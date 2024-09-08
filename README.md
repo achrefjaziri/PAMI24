@@ -1,4 +1,4 @@
-# PAMI24
+# Pattern analysis and Machine Intellegince Course at Goethe University Frankfurt 2024
 
 
 This repository contains the notebooks and materials used in the Pattern analysis and Machine Intellegince course. The lecture and the practical assignments will be uploaded on Mondays. The solutions to the exercises will be uploaded on Thursday. The Friday session will be reserved for questions and discussion about the previous exercises. We will present some talks about current research trends that relate to the practiced material. These talks will be done by various researchers and serve as an opportunity for the students to get familiar with current literature for their projects. 
