@@ -1,68 +1,168 @@
-# Pattern analysis and Machine Intellegince Course at Goethe University Frankfurt 2024
+# Pattern Analysis and Machine Intelligence Course  
+**Goethe University Frankfurt — 2024**
 
+Repository for the **Pattern Analysis and Machine Intelligence** course at Goethe University Frankfurt. This repository contains lecture materials, notebooks, and practical assignments. 
 
-This repository contains the notebooks and materials used in the Pattern analysis and Machine Intellegince course. The lecture and the practical assignments will be uploaded on Mondays. The solutions to the exercises will be uploaded on Thursday. The Friday session will be reserved for questions and discussion about the previous exercises. We will present some talks about current research trends that relate to the practiced material. These talks will be done by various researchers and serve as an opportunity for the students to get familiar with current literature for their projects. 
+### Course Structure:
+- **Lectures and Assignments**: Materials will be uploaded every **Monday**.
+- **Exercise Solutions**: Solutions will be available by **Thursday**.
+- **Discussion Session**: Fridays are reserved for questions and discussions regarding the previous week's exercises.
+- **Research Talks**: During the friday session, several researchers will give talks on current research trends related to the material. These talks are designed to familiarize students with the latest literature and support their project work.
 
+---
 
-Course Schedule:
+### Course Schedule:
 
-15.04 - week 1: 
-General introduction to machine learning and course utilities.  + Classification with Naive Bayes + Logistic regression and gradient descent
-Practical assignments: (optional) python review notebook. Spam message identification  + Gradient descent variants and Titanic survivor prediction
+#### **Week 1 (15.04):**  
+**Topics**:  
+- Introduction to Machine Learning  
+- Classification with Naive Bayes  
+- Logistic Regression & Gradient Descent  
 
-22.04 - week 2: 
-Introduction to neural networks: multi-layer perceptron (MLP), convolutional neural network (CNN).  + ML Frameworks
-Practical assignment: (Optional): MLP classification of fashion images with pure Numpy +  Fashion image classification and reading traditional Japanese character PyTorch.
+**Practical Assignments**:  
+- (Optional) Python review notebook  
+- Spam Message Identification  
+- Gradient Descent Variants & Titanic Survivor Prediction  
 
-29.05: week 3.  
-Random Forests. 
-Practical assignment: Revisiting Titanic survivor prediction + an additional challenge (San Francisco Crime).
+---
 
-06.05 - week 4:
-Neural sequence models, recurrent neural networks. 
-Practical assignment: Shakespeare poetry text generation.
+#### **Week 2 (22.04):**  
+**Topics**:  
+- Introduction to Neural Networks  
+  - Multi-Layer Perceptron (MLP)  
+  - Convolutional Neural Network (CNN)  
+- Machine Learning Frameworks  
 
+**Practical Assignments**:  
+- (Optional) MLP Classification of Fashion Images with Numpy  
+- Fashion Image Classification  
+- Reading Traditional Japanese Characters with PyTorch  
 
-13.05 - week 5: 
-Transformers and Attention Mechanisms (
-Practical assignment: Text Generation with Transformers
+---
 
+#### **Week 3 (29.04):**  
+**Topic**:  
+- Random Forests  
 
-20.05 - week 6: Holiday
+**Practical Assignment**:  
+- Revisiting Titanic Survivor Prediction  
+- Additional Challenge: San Francisco Crime Classification  
 
-27.05 - week 7
-Lecture: Time Series Forecasting with NN vs Classical Methods. 
-Practical assignment: TBD
+---
 
+#### **Week 4 (06.05):**  
+**Topic**:  
+- Neural Sequence Models  
+  - Recurrent Neural Networks (RNNs)  
 
-03.06  week 8: 
-Lecture: Introduction to unsupervised learning. Clustering with k-means. Principal and independent component analysis (PCA and ICA). 
-Practical assignment: Finding clusters in generated distributions and signal source separation.
+**Practical Assignment**:  
+- Shakespeare Poetry Text Generation  
 
+---
 
-10.06 - week 9: 
-Unsupervised neural networks: representation learning through variational auto-encoding (VAE). And Generative adversarial networks (GAN). 
-Practical assignment: Revisiting fashion and Kuzushiji for unsupervised pre-training and image generation + Face generation using GANs
+#### **Week 5 (13.05):**  
+**Topic**:  
+- Transformers & Attention Mechanisms  
 
+**Practical Assignment**:  
+- Text Generation with Transformers  
 
-17.06 - week 10: 
-Normalizng Flows.
-Practical assignment: Modelling Complex Distributions with FFJORD
+---
 
-24.06 - week 11: 
-Score Based Generative and Diffusion Models. Practical assignment: Score Based Generative Models with CIFAR100
+#### **Week 6 (20.05):**  
+**Holiday** (No Lecture or Assignments)
 
+---
 
-01.07 - week 12: 
-Self Supervised Learning: Contrastive Learning and similar methods. 
-Practical assignment:  SimCLR and BYOL for image classification. 
+#### **Week 7 (27.05):**  
+**Topic**:  
+- Time Series Forecasting  
+  - Neural Networks vs Classical Methods  
 
-08.07 - week 13: 
-Lecture :Classic tabular q-learning. +  Deep reinforcement learning, QNN
-Practical assignment: (Optional) Cart pole balancing.  + Taxi driver with DeepRL
+**Practical Assignment**:  
+- TBD  
 
-15.07 - week 14: 
-Meta-learning. 
-Practical assignment: neural architecture search using the reinforce algorithm. 
+---
 
+#### **Week 8 (03.06):**  
+**Topic**:  
+- Introduction to Unsupervised Learning  
+  - Clustering with K-Means  
+  - Principal Component Analysis (PCA)  
+  - Independent Component Analysis (ICA)  
 
+**Practical Assignment**:  
+- Clustering in Generated Distributions  
+- Signal Source Separation  
+
+---
+
+#### **Week 9 (10.06):**  
+**Topic**:  
+- Unsupervised Neural Networks  
+  - Variational Autoencoders (VAE)  
+  - Generative Adversarial Networks (GANs)  
+
+**Practical Assignment**:  
+- Unsupervised Pre-training for Fashion and Kuzushiji Classification  
+- Image Generation  
+- Face Generation with GANs  
+
+---
+
+#### **Week 10 (17.06):**  
+**Topic**:  
+- Normalizing Flows  
+
+**Practical Assignment**:  
+- Modeling Complex Distributions with FFJORD  
+
+---
+
+#### **Week 11 (24.06):**  
+**Topic**:  
+- Score-Based Generative Models  
+- Diffusion Models  
+
+**Practical Assignment**:  
+- Score-Based Generative Models with CIFAR-100  
+
+---
+
+#### **Week 12 (01.07):**  
+**Topic**:  
+- Self-Supervised Learning  
+  - Contrastive Learning and Similar Methods  
+
+**Practical Assignment**:  
+- SimCLR & BYOL for Image Classification  
+
+---
+
+#### **Week 13 (08.07):**  
+**Topics**:  
+- Classic Tabular Q-Learning  
+- Deep Reinforcement Learning (DRL)  
+- QNN  
+
+**Practical Assignments**:  
+- (Optional) Cart Pole Balancing  
+- Taxi Driver with DeepRL  
+
+---
+
+#### **Week 14 (15.07):**  
+**Topic**:  
+- Meta-Learning  
+
+**Practical Assignment**:  
+- Neural Architecture Search Using the REINFORCE Algorithm  
+
+---
+
+### Additional Information:
+Make sure to review the course materials regularly and participate in the Friday discussions. This course will also provide opportunities to delve into state-of-the-art methods and apply them in practical settings. 
+
+To successfully complete the course, each group (up to 2 members) must work on a practical project. Project proposals will be discussed in May and the final presentation will take place in September.
+
+---
